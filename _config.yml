@@ -24,11 +24,11 @@ author:
   name             : "Wangqi WU"
   avatar           : "images/wwq_Identification photo.jpg"
   bio              : "[Curriculum Vitae]"
-  location         : "Hong Kong SAR, China"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=CInvjq8AAAAJ"
-  email            : "junjie98.li@connect.polyu.hk"
+  googlescholar    :
+  email            : "2020wwq@my.swjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : mrjunjieli # e.g., "github username"
+  github           : MrWANGQIWU # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : junjie-li-4b0a17303 # e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
