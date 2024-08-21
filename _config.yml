@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wangqi WU"
   avatar           : "images/wwq_Identification photo.png"
-  bio              : "[Curriculum Vitae]"(pdf/CV_CH&EN（9.0）.pdf)
-  location         : "Chengdu, China"
+  bio              : "[Curriculum Vitae]"
+  location         : "Chengdu,China"
   employer         :
   pubmed           : 
   googlescholar    :
