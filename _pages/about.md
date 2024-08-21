@@ -22,6 +22,7 @@ I am currently a Ph.D student, Department of Electrical and Eletronic Engineerin
 
 My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. 
 
+You can find my CV here: [Wangqi WU's Curriculum Vitae](../pdf/CV_CH&EN（9.0）.pdf).
 
 # 📖 Educations
 - 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong Universit, Chengdu.
