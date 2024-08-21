@@ -25,9 +25,10 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 
 # 📖 Educations
 - 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong Universit, Chengdu.
-- **Grade Rank**  4/79 (top 5%)
-- **English Level**  CET4(554)   CET6 (501)
-- **Core Courses**  Advanced Algebra I (96)、Mathematical Analysis I (95)、Probability Theory(93)、Analysis of Time Series(99)、Multivariate statistical analysis(98)、Regression analysis(94)
+- **Grade Rank**       4/79 (top 5%)
+- **English Level**    CET4(554)   CET6 (501)
+- **Core Courses**     Advanced Algebra I (96)、Mathematical Analysis I (95)、Probability Theory(93)、Analysis of Time Series(99)<br />
+                       Multivariate statistical analysis(98)、Regression analysis(94)
 
 # 💻 Internship Experience
 - 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
