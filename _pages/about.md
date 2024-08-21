@@ -56,6 +56,10 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https:/
 
 # 🎖 Honors and Awards
 - 2024.05 The 14th National College Students Research and Analysis Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2024.06 The 10th National College Students Statistical Modeling Competition│Leader│**Recommended to the national competition**[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2022.11│The 17th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2023.06│The 13th Mathorcup National College students Mathematical Contest in Modeling│Modeler│National third prize[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2023.03│The 14th National Mathematics Competition│Provincial second prize[[pdf]](../pdf/cra_national-first-prize.pdf)
 
 # 😄 Academic Activities 
 - 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
