@@ -25,7 +25,6 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 
 # 📖 Educations
 - 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong Universit, Chengdu.
-- 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong Universit, Chengdu.
 
 
 # 💻 Internship Experience
