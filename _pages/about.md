@@ -55,7 +55,7 @@ INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183.
 cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https://github.com/mrjunjieli/IB_ON_CNN)
 
 # 🎖 Honors and Awards
-- 2024.05 The 14th National College Students Research and Analysis Competition│Core member│**National first prize**[[pdf]](../pdf/CRA_firstprize.pdf)
+- 2024.05 The 14th National College Students Research and Analysis Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.jpg)
 
 # 😄 Academic Activities 
 - 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
