@@ -69,7 +69,7 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https:/
 - 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
 
 # 🗺️ Visitor Map
-<script type=“text/javascript” src=“//rf.revolvermaps.com/0/0/8.js?i=5oufyepg8i0&m=8&c=ff0000&cr1=0006ff&f=arial&l=33” async=“async”></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5t7t30ug5tr&amp;m=8&amp;c=ff0000&amp;cr1=0006ff&amp;f=arial&amp;l=33" async="async"></script>
 
 <!-- 
 # 🔥 News
