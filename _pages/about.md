@@ -36,30 +36,15 @@ You can read my CV for more information about my experiences: [Wangqi WU's Curri
 - **English Level**: &nbsp;    CET4(554)   CET6 (501)
 - **Core Courses** : &nbsp;    Advanced Algebra I (96)、Mathematical Analysis I (95)、Probability Theory(93)、Analysis of Time Series(99)<br />
                          Multivariate statistical analysis(98)、Regression analysis(94)
+  
+# 💻 Research Experience
 
-# 💻 Internship Experience
-- 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
-- 2022.06 - 2022.12, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
-- 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan. 
+- Haoqi Liu, **Wangqi Wu**, Mei Yan.Variations in the spatiotemporal variability of soil respiration drive the upwards respiration trend(Submitted to SCI《Catena》&reviewing)<br />
 
+Using a multivariate regression model, we predict soil respiration value (Rs) based on environmental factors, then analyze the spatiotemporal variability of Rs for each species and discuss deeply the heterogenization, homogenization and transition stages of Rs as well as the driving effect.
 
-# 📝 Publications
-- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html)
-- WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction (Accepted by Interspeech 2024)
-- R. Tao, X. Qian, Y. Jiang, **J. Li**, J. Wang and H. Li, Subtracting the unseen sounds: Reverse auditory
-selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
-- **J. Li**, R. Tao, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
-Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398. [[Code]](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
-- H. Wang, Y. Fu, **J. Li**, M. Ge, L. Wang and X. Qian, ”Stream Attention Based U-Net for L3DAS23
-Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
-- **J. Li**, M. Ge, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
-SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545.[[Code]](https://github.com/mrjunjieli/DAVSE)
-- **J. Li**, M. Ge, et al. ”Deep Multi-task Cascaded Acoustic Echo Cancellation and Noise Suppres-
-sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852. [[Code]](https://github.com/mrjunjieli/DMC_AEC)
-- **J. Li**, M. Ge, et al. VCSE: Time-Domain Visual-Contextual Speaker Extraction Network. Proc.
-INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183.
-- **J. Li** and D. Liu, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
-cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https://github.com/mrjunjieli/IB_ON_CNN)
+-Haitao Tian, Lei Huang, Shouri Hu, **Wangqi Wu**.A modified K-nearest neighbors regression for air pollution prediction(Submitted to SCI《Environmental and Ecological Statistics》&reviewing)<br />
+We develop a novel KNN rule that combines the ridge estimators called KNN-ridge regression(KNN-RR),aiming to improve the model prediction performance under the influence of multicollinearity. Through theoretical derivation and empirical analysis, the MSE before and after the improvement is 318.61 and 28.40.
 
 # 🎖 Honors and Awards
 - 2024.05 The 14th National College Students Research and Analysis Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
@@ -112,4 +97,9 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)[[Code]](https:/
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. 
+
+# 💻 Internship Experience
+- 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
+- 2022.06 - 2022.12, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
+- 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan. -->
