@@ -25,8 +25,9 @@ In my second year as an undergraduate, I was fortunate to have the opportunity t
 My research interests include 
 - **Regression Analysis**
 - **Machine Learning**
-- **Big Data Statistics**
+- **Big Data Statistics**.
 such as **Biostatistics , Health Care Big Data**.
+
 You can read my CV for more information about my experiences: [Wangqi WU's Curriculum Vitae](../pdf/CV_CHEN9.0.pdf).
 
 # 📖 Educations
