@@ -17,12 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🧍‍♂️ About me
 I am currently a B.E. student, Department of Statistic, School of Mathematics, Southwest Jiaotong University (SWJTU). During my undergraduate years,I participate in a lot of scientific research training and discipline competitions to improve my abilities in various aspects.Up to now I have completed two academic papers as **the second and the fourth author**, which have been submitted to SCI journals for review. Moreover, I participate in Statistical Modeling, Market Research , Mathematics Competitions as a team leader and won a total of **5 national awards and 9 provincial awards**.
 
 In my second year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://faculty.swjtu.edu.cn/huanglei1/zh_CN/index/132441/list/index.htm'>Dr. Lei Huang</a>, who is an excellent teacher, guiding me to the academic path. 
 
-My research interest includes **Regression Analysis , Machine Learning , Big Data Statistics , such as Biostatistics , Health Care Big Data**. 
-
+My research interests include 
+- **Regression Analysis**
+- **Machine Learning**
+- **Big Data Statistics**
+such as **Biostatistics , Health Care Big Data**.
 You can read my CV for more information about my experiences: [Wangqi WU's Curriculum Vitae](../pdf/CV_CHEN9.0.pdf).
 
 # 📖 Educations
