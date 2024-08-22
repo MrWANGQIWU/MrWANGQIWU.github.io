@@ -50,16 +50,19 @@ We develop a novel KNN rule that combines the ridge estimators called KNN-ridge 
 # 🎖 Honors and Awards
 - 2024.05 The 14th National College Students Research and Analysis Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
 - 2024.06 The 10th National College Students Statistical Modeling Competition│Leader│**Recommended to the national competition**[[pdf]](../pdf/cra_national-first-prize.pdf)
-- 2022.11│The 17th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
-- 2023.06│The 13th Mathorcup National College students Mathematical Contest in Modeling│Modeler│National third prize[[pdf]](../pdf/cra_national-first-prize.pdf)
-- 2023.03│The 14th National Mathematics Competition│Provincial second prize[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2022.11 The 17th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2023.06 The 13th Mathorcup National College students Mathematical Contest in Modeling│Modeler│National third prize[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2023.03 The 14th National Mathematics Competition│Provincial second prize[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2021.12 National Encouragement scholarship[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2022.06 Provincial comprehensive quality A level certificate[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2023.12 School level merit student[[pdf]](../pdf/cra_national-first-prize.pdf)
 
-# 😄 Academic Activities 
-- 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
-- 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
-- 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
-- 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
-- 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
+
+# 😄 Practice Experience 
+- **2024.08** Summer training program——Leadership and Innovation(PolyU)[[pdf]](../pdf/cra_national-first-prize.pdf)
+- **2024.07** Summer International Program——Categorical Data Analysis and Applications to Statistical Modelling[[pdf]](../pdf/cra_national-first-prize.pdf)
+- **2022.09-2024.06**School Youth League Committee Science and Technology Innovation Center (Student Organization) │Chairman
+- **2021.09-2023.06**"Red Notes" veteran search project(Voluntary Service Organization)│Chairman<a href='https://mp.weixin.qq.com/s/ImFu-l7bIJdmJ6hs7DNtdg'>[Activity record] </a>
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5t7t30ug5tr&amp;m=8&amp;c=ff0000&amp;cr1=0006ff&amp;f=arial&amp;l=33" async="async"></script>
@@ -103,4 +106,11 @@ We develop a novel KNN rule that combines the ridge estimators called KNN-ridge 
 # 💻 Internship Experience
 - 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
 - 2022.06 - 2022.12, supervised by <a href='https://scholar.google.com/citations?user=BcWMSE4AAAAJ&hl=zh-CN'>Dr. Shiliang Zhang</a>, Alibaba DAMO Academy, Hangzhou.
-- 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan. -->
+- 2021.11 - 2022.01, <a href='https://e.huawei.com/cn/products/enterprise-collaboration/ideahub'>ICT</a>, Huawei, Dongguan.
+
+# 😄 Academic Activities 
+- 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
+- 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
+- 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
+- 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
+- 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html) -->
