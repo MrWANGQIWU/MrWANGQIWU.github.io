@@ -43,7 +43,7 @@ You can read my CV for more information about my experiences: [Wangqi WU's Curri
 
 Using a multivariate regression model, we predict soil respiration value (Rs) based on environmental factors, then analyze the spatiotemporal variability of Rs for each species and discuss deeply the heterogenization, homogenization and transition stages of Rs as well as the driving effect.
 
--Haitao Tian, Lei Huang, Shouri Hu, **Wangqi Wu**.A modified K-nearest neighbors regression for air pollution prediction(Submitted to SCI《Environmental and Ecological Statistics》&reviewing)<br />
+- Haitao Tian, Lei Huang, Shouri Hu, **Wangqi Wu**.A modified K-nearest neighbors regression for air pollution prediction(Submitted to SCI《Environmental and Ecological Statistics》&reviewing)<br />
 We develop a novel KNN rule that combines the ridge estimators called KNN-ridge regression(KNN-RR),aiming to improve the model prediction performance under the influence of multicollinearity. Through theoretical derivation and empirical analysis, the MSE before and after the improvement is 318.61 and 28.40.
 
 # 🎖 Honors and Awards
