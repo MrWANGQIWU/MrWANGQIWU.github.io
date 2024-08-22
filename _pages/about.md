@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (PolyU)🇭🇰. My chief supervisor is <a href="https://sites.google.com/view/kongaiklee"> Dr. Kong Aik LEE </a> and co-supervisor is <a href="http://www.eie.polyu.edu.hk/~mwmak/">Prof. Man-Wai Mak</a>. I recived my Master's Degree in College of Intellgence and Computing, Tianjin University, supervised by <a href="https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html">Prof. Longbiao WANG</a>, and recived my Bachelor's Degree in School of Computer Science and Technology, Tiangong University. In my third year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://scholar.google.com.hk/citations?user=g9oFBgMAAAAJ&hl=zh-CN&oi=sra'>Dr. Ding Liu</a>, who is an excellent teacher, guiding me to the academic path. 
+I am currently a B.E. student, Department of Statistic, School of Mathematics, Southwest Jiaotong University (SWJTU). During my undergraduate years,I participate in a lot of scientific research training and discipline competitions to improve my abilities in various aspects.Up to now I have completed two academic papers as **the second and the fourth author**, which have been submitted to SCI journals for review. Moreover, I participate in Statistical Modeling, Market Research , Mathematics Competitions as a team leader and won a total of **5 national awards and 9 provincial awards**.
 
+In my second year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://faculty.swjtu.edu.cn/huanglei1/zh_CN/index/132441/list/index.htm'>Dr. Lei Huang</a>, who is an excellent teacher, guiding me to the academic path. 
 
-My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. 
+My research interest includes **Regression Analysis , Machine Learning , Big Data Statistics , such as Biostatistics , Health Care Big Data**. 
 
-You can find my CV here: [Wangqi WU's Curriculum Vitae](../pdf/CV_CHEN9.0.pdf).
+You can read my CV for more information about my experiences: [Wangqi WU's Curriculum Vitae](../pdf/CV_CHEN9.0.pdf).
 
 # 📖 Educations
-- 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong Universit, Chengdu.
+- 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong University, Chengdu.
 - **Grade Rank**       4/79 (top 5%)
 - **English Level**    CET4(554)   CET6 (501)
 - **Core Courses**     Advanced Algebra I (96)、Mathematical Analysis I (95)、Probability Theory(93)、Analysis of Time Series(99)<br />
