@@ -41,11 +41,11 @@ You can read my CV for more information about my experiences: [Wangqi WU's Curri
 
 - Haoqi Liu, **Wangqi Wu**, Mei Yan.Variations in the spatiotemporal variability of soil respiration drive the upwards respiration trend(Submitted to SCI《Catena》&reviewing)<br />
 
-Using a multivariate regression model, we predict soil respiration value (Rs) based on environmental factors, then analyze the spatiotemporal variability of Rs for each species and discuss deeply the heterogenization, homogenization and transition stages of Rs as well as the driving effect.
+- Using a multivariate regression model, we predict soil respiration value (Rs) based on environmental factors, then analyze the spatiotemporal variability of Rs for each species and discuss deeply the heterogenization, homogenization and transition stages of Rs as well as the driving effect.
 
 - Haitao Tian, Lei Huang, Shouri Hu, **Wangqi Wu**.A modified K-nearest neighbors regression for air pollution prediction(Submitted to SCI《Environmental and Ecological Statistics》&reviewing)<br />
 
-We develop a novel KNN rule that combines the ridge estimators called KNN-ridge regression(KNN-RR),aiming to improve the model prediction performance under the influence of multicollinearity. Through theoretical derivation and empirical analysis, the MSE before and after the improvement is 318.61 and 28.40.
+- We develop a novel KNN rule that combines the ridge estimators called KNN-ridge regression(KNN-RR),aiming to improve the model prediction performance under the influence of multicollinearity. Through theoretical derivation and empirical analysis, the MSE before and after the improvement is 318.61 and 28.40.
 
 # 🎖 Honors and Awards
 - 2024.05 The 14th National College Students Research and Analysis Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
