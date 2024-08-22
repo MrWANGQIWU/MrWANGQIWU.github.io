@@ -6,17 +6,17 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Internship Experience"
-    url: "/#-internship-experience"
-
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Research Experience"
+    url: "/#-research-experience"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Acdemica activities"
-    url: "/#-academic-activities"
+  - title: "Practice Experience"
+    url: "/#-practice-experience"
 
-  - title: "Practise activities"
-    url: "/#-practise-activities"
+  - title: "Skills"
+    url: "/#-skills"
+
+  - title: "Visitor Map"
+    url: "/#-visitor-map"
