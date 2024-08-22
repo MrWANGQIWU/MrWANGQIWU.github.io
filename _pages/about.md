@@ -61,8 +61,8 @@ We develop a novel KNN rule that combines the ridge estimators called KNN-ridge 
 # 😄 Practice Experience 
 - **2024.08** Summer training program——Leadership and Innovation(PolyU)[[pdf]](../pdf/cra_national-first-prize.pdf)
 - **2024.07** Summer International Program——Categorical Data Analysis and Applications to Statistical Modelling[[pdf]](../pdf/cra_national-first-prize.pdf)
-- **2022.09-2024.06**School Youth League Committee Science and Technology Innovation Center (Student Organization) │Chairman
-- **2021.09-2023.06**"Red Notes" veteran search project(Voluntary Service Organization)│Chairman<a href='https://mp.weixin.qq.com/s/ImFu-l7bIJdmJ6hs7DNtdg'>[Activity record] </a>
+- **2022.09-2024.06** School Youth League Committee Science and Technology Innovation Center (Student Organization) │Chairman[[Activity record]](../pdf/cra_national-first-prize.pdf)
+- **2021.09-2023.06** "Red Notes" veteran search project(Voluntary Service Organization)│Chairman<a href='https://mp.weixin.qq.com/s/ImFu-l7bIJdmJ6hs7DNtdg'>[Activity record] </a>
 
 # 🗺️ Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5t7t30ug5tr&amp;m=8&amp;c=ff0000&amp;cr1=0006ff&amp;f=arial&amp;l=33" async="async"></script>
