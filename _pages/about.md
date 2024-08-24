@@ -53,7 +53,7 @@ You can read my CV for more information about my experiences: [Wangqi WU's Curri
 - 2022.11 The 17th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
 - 2023.06 The 13th Mathorcup National College students Mathematical Contest in Modeling│Modeler│National third prize[[pdf]](../pdf/Mathorcup_National-third-prize.pdf)
 - 2023.03 The 14th National Mathematics Competition│Provincial second prize[[pdf]](../pdf/MC_Provincial second prize.pdf)
-- 2021.12 National Encouragement scholarship[[pdf]](../pdf/National Encouragement scholarship.pdf)
+- 2021.12 National Encouragement scholarship[[pdf]](../pdf/National_Encouragement_scholarship.pdf)
 - 2022.06 Provincial comprehensive quality A level certificate[[pdf]](../pdf/A level certificate.pdf)
 - 2023.12 School level merit student[[pdf]](../pdf/School level merit student.pdf)
 
