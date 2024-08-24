@@ -50,17 +50,17 @@ You can read my CV for more information about my experiences: [Wangqi WU's Curri
 # 🎖 Honors and Awards
 - 2024.05 The 14th National College Students Research and Analysis Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
 - 2024.06 The 10th National College Students Statistical Modeling Competition│Leader│**Recommended to the national competition**
-- 2022.11 The 17th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
+- 2022.11 The 17th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition│Core member│**National first prize**[[pdf]](../pdf/challenge-cup_national-first-prize.pdf)
 - 2023.06 The 13th Mathorcup National College students Mathematical Contest in Modeling│Modeler│National third prize[[pdf]](../pdf/Mathorcup_National-third-prize.pdf)
-- 2023.03 The 14th National Mathematics Competition│Provincial second prize[[pdf]](../pdf/MC_Provincial second prize.pdf)
+- 2023.03 The 14th National Mathematics Competition│Provincial second prize[[pdf]](../pdf/MC_Provincial_second_prize.pdf)
 - 2021.12 National Encouragement scholarship[[pdf]](../pdf/National_Encouragement_scholarship.pdf)
-- 2022.06 Provincial comprehensive quality A level certificate[[pdf]](../pdf/A level certificate.pdf)
-- 2023.12 School level merit student[[pdf]](../pdf/School level merit student.pdf)
+- 2022.06 Provincial comprehensive quality A level certificate[[pdf]](../pdf/A_level_certificate.pdf)
+- 2023.12 School level merit student[[pdf]](../pdf/School_level_merit_student.pdf)
 
 
 # 😄 Practice Experience 
 - **2024.08** Summer training program——Leadership and Innovation(PolyU)
-- **2024.07** Summer International Program——Categorical Data Analysis and Applications to Statistical Modelling[[pdf]](../pdf/Summer International Program.pdf)
+- **2024.07** Summer International Program——Categorical Data Analysis and Applications to Statistical Modelling[[pdf]](../pdf/Summer_International_Program.pdf)
 - **2022.09-2024.06** School Youth League Committee Science and Technology Innovation Center (Student Organization) │Chairman<a href='https://mp.weixin.qq.com/s/HtD_Z2Rj44iaDzH7ty1EwQ'>[Activity record] </a>
 - **2021.09-2023.06** "Red Notes" veteran search project(Voluntary Service Organization)│Chairman<a href='https://mp.weixin.qq.com/s/ImFu-l7bIJdmJ6hs7DNtdg'>[Activity record] </a>
 
