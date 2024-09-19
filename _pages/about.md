@@ -32,7 +32,7 @@ You can read my CV for more information about my experiences: [Wangqi WU's Curri
 
 # 📖 Educations
 - 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong University, Chengdu.
-- **Grade Rank** : &nbsp;      4/79 (top 5%)
+- **Grade Rank** : &nbsp;      4/78 (top 5%)
 - **English Level**: &nbsp;    CET4(554)   CET6 (501)
 - **Core Courses** : &nbsp;    Advanced Algebra I (96)、Mathematical Analysis I (95)、Probability Theory(93)、Analysis of Time Series(99)<br />
                          Multivariate statistical analysis(98)、Regression analysis(94)
@@ -49,7 +49,7 @@ You can read my CV for more information about my experiences: [Wangqi WU's Curri
 
 # 🎖 Honors and Awards
 - 2024.05 The 14th National College Students Research and Analysis Competition│Core member│**National first prize**[[pdf]](../pdf/cra_national-first-prize.pdf)
-- 2024.06 The 10th National College Students Statistical Modeling Competition│Leader│**Recommended to the national competition**
+- 2024.06 The 10th National College Students Statistical Modeling Competition│Leader│**National third prize**[[pdf]](../pdf/csm_national-third-prize.pdf)
 - 2022.11 The 17th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition│Core member│**National first prize**[[pdf]](../pdf/challenge-cup_national-first-prize.pdf)
 - 2023.06 The 13th Mathorcup National College students Mathematical Contest in Modeling│Modeler│National third prize[[pdf]](../pdf/Mathorcup_National-third-prize.pdf)
 - 2023.03 The 14th National Mathematics Competition│Provincial second prize[[pdf]](../pdf/MC_Provincial_second_prize.pdf)
