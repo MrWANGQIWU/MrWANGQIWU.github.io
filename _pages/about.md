@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ About me
-I am currently a B.E. student, Department of Statistic, School of Mathematics, Southwest Jiaotong University (SWJTU). During my undergraduate years,I participate in a lot of scientific research training and discipline competitions to improve my abilities in various aspects.Up to now I have completed two academic papers as **the second and the fourth author**, which have been submitted to SCI journals for review. Moreover, I participate in Statistical Modeling, Market Research , Mathematics Competitions as a team leader and won a total of **5 national awards and 9 provincial awards**.
+I am currently a B.E. student, Department of Statistic, School of Mathematics, Southwest Jiaotong University (SWJTU). In September,I have been successfully admitted to the School of Statistics of East China Normal University (ECNU) and will study for a master's degree in Applied statistics.During my undergraduate years,I participate in a lot of scientific research training and discipline competitions to improve my abilities in various aspects.Up to now I have completed two academic papers as **the second and the fourth author**, which have been submitted to SCI journals for review. Moreover, I participate in Statistical Modeling, Market Research , Mathematics Competitions as a team leader and won a total of **5 national awards and 9 provincial awards**.
 
 In my second year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://faculty.swjtu.edu.cn/huanglei1/zh_CN/index/132441/list/index.htm'>Dr. Lei Huang</a>, who is an excellent teacher, guiding me to the academic path. 
 
@@ -28,10 +28,11 @@ My research interests include
 - **Big Data Statistics**,such as **Health Care Big Data** <br />
 - **Biostatistics**
 
-You can read my CV for more information about my experiences: [Wangqi WU's Curriculum Vitae](../pdf/CV_CHEN9.0.pdf).
+<!--You can read my CV for more information about my experiences: [Wangqi WU's Curriculum Vitae](../pdf/CV_CHEN9.0.pdf).-->
 
 # 📖 Educations
 - 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong University, Chengdu.
+- 2025.06 -  , Master in School of Statistics, East China Normal University, Shanghai.
 - **Grade Rank** : &nbsp;      4/78 (top 5%)
 - **English Level**: &nbsp;    CET4(554)   CET6 (501)
 - **Core Courses** : &nbsp;    Advanced Algebra I (96)、Mathematical Analysis I (95)、Probability Theory(93)、Analysis of Time Series(99)<br />
@@ -43,7 +44,7 @@ You can read my CV for more information about my experiences: [Wangqi WU's Curri
 
 - Using a multivariate regression model, we predict soil respiration value (Rs) based on environmental factors, then analyze the spatiotemporal variability of Rs for each species and discuss deeply the heterogenization, homogenization and transition stages of Rs as well as the driving effect.
 
-- Haitao Tian, Lei Huang, Shouri Hu, **Wangqi Wu**.A modified K-nearest neighbors regression for air pollution prediction(Submitted to SCI《Environmental and Ecological Statistics》&reviewing)<br />
+- Haitao Tian, Lei Huang, Shouri Hu, **Wangqi Wu**.A modified K-nearest neighbors regression for air pollution prediction(Accepted by SCI《Environmental and Ecological Statistics》)<br />
 
 - We develop a novel KNN rule that combines the ridge estimators called KNN-ridge regression(KNN-RR),aiming to improve the model prediction performance under the influence of multicollinearity. Through theoretical derivation and empirical analysis, the MSE before and after the improvement is 318.61 and 28.40.
 
