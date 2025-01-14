@@ -33,11 +33,13 @@ My research interests include
 # 📖 Educations
 - 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong University, Chengdu.
 - 2025.06 -  , Master in School of Statistics, East China Normal University, Shanghai.
+
+  
 <!--
 - **Grade Rank** : &nbsp;      4/78 (top 5%)
 - **English Level**: &nbsp;    CET4(554)   CET6 (501)
 - **Core Courses** : &nbsp;    Advanced Algebra I (96)、Mathematical Analysis I (95)、Probability Theory(93)、Analysis of Time Series(99)<br />
-                         Multivariate statistical analysis(98)、Regression analysis(94)-->
+                         Multivariate statistical analysis(98)、Regression analysis(94) -->
   
 # 💻 Research Experience
 
