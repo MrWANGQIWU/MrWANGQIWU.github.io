@@ -44,7 +44,7 @@ My research interests include
 
 - Using a multivariate regression model, we predict soil respiration value (Rs) based on environmental factors, then analyze the spatiotemporal variability of Rs for each species and discuss deeply the heterogenization, homogenization and transition stages of Rs as well as the driving effect.
 
-- Haitao Tian, Lei Huang, Shouri Hu, **Wangqi Wu**.A modified K-nearest neighbors regression for air pollution prediction(Accepted by SCI《Environmental and Ecological Statistics》)<br />
+- Haitao Tian, Lei Huang, Shouri Hu, **Wangqi Wu**.A modified machine learning algorithm for multi-collinearity environmental data. Environ Ecol Stat 31, 1063–1083 (2024). <a href='https://doi.org/10.1007/s10651-024-00634-6'>https://doi.org/10.1007/s10651-024-00634-6</a>
 
 - We develop a novel KNN rule that combines the ridge estimators called KNN-ridge regression(KNN-RR),aiming to improve the model prediction performance under the influence of multicollinearity. Through theoretical derivation and empirical analysis, the MSE before and after the improvement is 318.61 and 28.40.
 
@@ -69,8 +69,12 @@ My research interests include
 - **Programming ability**: &nbsp; Proficient in **R, LaTeX, SPSS** functions and programming, able to use Python, MATLAB for basic data analysis
 - **Skill certificate**: &nbsp; [[Second-level Certificate for National Computer]](../pdf/Second-level Certificate for National Computer.pdf)、Teacher Certification（High school math│written test passed）
 
-# 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5t7t30ug5tr&amp;m=8&amp;c=ff0000&amp;cr1=0006ff&amp;f=arial&amp;l=33" async="async"></script>
+# 🗺️ Great Sources
+- 北京大学教学媒体资源服务平台<a href='https://resource.pku.edu.cn/index.php?r=course%2Findex'>https://resource.pku.edu.cn/index.php?r=course%2Findex</a>
+
+
+
+
 
 <!-- 
 # 🔥 News
