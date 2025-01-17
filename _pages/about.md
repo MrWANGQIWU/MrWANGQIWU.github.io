@@ -74,6 +74,7 @@ My research interests include
 
 # 🗺️ Great Sources
 - 北京大学教学媒体资源服务平台<a href='https://resource.pku.edu.cn/index.php?r=course%2Findex'>https://resource.pku.edu.cn/index.php?r=course%2Findex</a>
+- R语言实战机器学习<a href='https://ayueme.github.io/machine_learning_base_r/'>https://ayueme.github.io/machine_learning_base_r/</a>
 
 
 
