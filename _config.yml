@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wangqi WU"
-description              : "An undergraduate student in Statistics at Southwest Jiaotong University"
+description              : "A master student in Statistics at East China Normal University"
 repository               : "MrWANGQIWU/MrWANGQIWU.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Wangqi WU"
   avatar           : "images/wwq_Identification photo.png"
   bio              : 
-  location         : "Chengdu,China"
+  location         : "Shanghai,China"
   employer         :
   pubmed           : 
   googlescholar    :
