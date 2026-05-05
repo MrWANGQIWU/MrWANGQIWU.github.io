@@ -18,21 +18,34 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♂️ About me
-I am currently a B.E. student, Department of Statistic, School of Mathematics, Southwest Jiaotong University (SWJTU). In September,I have been successfully admitted to the School of Statistics of East China Normal University (ECNU) and will study for a master's degree in Applied statistics.During my undergraduate years,I participate in a lot of scientific research training and discipline competitions to improve my abilities in various aspects.Up to now I have completed two academic papers as **the second and the fourth author**, which have been submitted to SCI journals for review. Moreover, I participate in Statistical Modeling, Market Research , Mathematics Competitions as a team leader and won a total of **5 national awards and 9 provincial awards**.
+My name is Wu Wangqi from East China Normal University. I once worked as a Product (Data Analysis) Intern in the Meituan-Dianping Business Unit. My main responsibilities included:
+1. Daily monitoring and iterative analysis of product promotion;
+2. Data monitoring and periodic review of AOI shopping mall and block campaigns;
+3. Providing data insights to support AOI business development strategies.
 
-In my second year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://faculty.swjtu.edu.cn/huanglei1/zh_CN/index/132441/list/index.htm'>Dr. Lei Huang</a>, who is an excellent teacher, guiding me to the academic path. 
+I am proficient in building indicator systems, designing **A/B test , conducting attribution analysis and data anomaly analysis**. I am capable of extracting key insights from data to facilitate business decision-making. I have solid data analysis skills with fluent command of Python and SQL.
+
+**My goal is to drive business growth and optimization through rigorous data analysis.**
 
 My research interests include 
 - **Regression Analysis**
 - **Machine Learning**
+
+
+<!--
+I am currently a B.E. student, Department of Statistic, School of Mathematics, Southwest Jiaotong University (SWJTU). In September,I have been successfully admitted to the School of Statistics of East China Normal University (ECNU) and will study for a master's degree in Applied statistics.During my undergraduate years,I participate in a lot of scientific research training and discipline competitions to improve my abilities in various aspects.Up to now I have completed two academic papers as **the second and the fourth author**, which have been submitted to SCI journals for review. Moreover, I participate in Statistical Modeling, Market Research , Mathematics Competitions as a team leader and won a total of **5 national awards and 9 provincial awards**.
+
+In my second year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://faculty.swjtu.edu.cn/huanglei1/zh_CN/index/132441/list/index.htm'>Dr. Lei Huang</a>, who is an excellent teacher, guiding me to the academic path. 
+
 - **Big Data Statistics**,such as **Health Care Big Data** <br />
 - **Biostatistics**
 
-<!--You can read my CV for more information about my experiences: [Wangqi WU's Curriculum Vitae](../pdf/CV_CHEN9.0.pdf).-->
+You can read my CV for more information about my experiences: [Wangqi WU's Curriculum Vitae](../pdf/CV_CHEN9.0.pdf).-->
 
 # 📖 Educations
-- 2021.09 - present, B.E. in School of Mathematics, Southwest Jiaotong University, Chengdu.
-- 2025.06 -  , Master in School of Statistics, East China Normal University, Shanghai.
+- 2025.06 - present, Master in School of Statistics, East China Normal University, Shanghai.
+- 2021.09 - 2025.06, B.E. in School of Mathematics, Southwest Jiaotong University, Chengdu.
+
 
   
 <!--
